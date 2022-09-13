@@ -39,6 +39,8 @@ namespace ConsoleApp1
                 Console.WriteLine("Неверно выбрано действие");
             }
 
+            Console.WriteLine("Калькулятор успешно завершил работу!");
+
 
         }
     }
